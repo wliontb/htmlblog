@@ -1,4 +1,28 @@
+.sticky-container a {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+footer {
+    margin-top:10px;
+}
+
+.post {
+    margin-bottom: 1.25rem;
+    border-bottom: 2px solid #F2F2F2;
+    color:#636363;
+}
+
+.post a {
+    color:#464646 !important;
+}
+
+.post a:hover {
+    color:#2ba6cb !important;
+}
+
 .title {
+    font-size: 14px;
 	margin-bottom: 15px;
     background-color: #2c3840;
     padding: 0.7rem 1rem;
